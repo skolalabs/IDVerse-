@@ -1,7 +1,7 @@
 # IDVerse-
 Blockchain-Powered Digital Identity (DID) Solution For Business &amp; Individual.
 
-Challenge : 
+Challenge: 
 How might we deliver experience that is valuable to users & empower sustainability development growth via a digital platform?
 
 Problem Statement: 
