@@ -7,7 +7,7 @@ How might we deliver experience that is valuable to users & empower sustainabili
 Problem Statement: 
 lack transparency and trust, with users unsure about how their data is being used or who has access to it- mckinsey. 
 
-IDVerse. 
+IDVerse: 
 A revolutionary app using distributed ledger technology to generate a secure and efficient way for a comprehensive digital identity process by creating a tamper-proof record of client details and AI-based insights to activities and incentivizes for both the institutions and individuals.
 
 By using IDVerse, users can get:
